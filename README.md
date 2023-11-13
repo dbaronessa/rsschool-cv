@@ -1,1 +1,1 @@
-https://dbaronessa.github.io/rsschool-cv/cd
+https://dbaronessa.github.io/rsschool-cv/cv
