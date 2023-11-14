@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
   }
 
 * {
@@ -7,9 +7,8 @@ html {
   }
 
 body {
-    font-family: 'Playfair Display', sans-serif;
     min-height: 100vh;
-    margin: 0; 
+    margin: 0;
     padding: 0;
     display: flex;
     flex-direction: column;
@@ -255,7 +254,7 @@ a:hover {
 .languages-known .box {
     width: 100%;
     display: grid;
-    grid-template-columns: 150px 1fr;
+    grid-template-columns: 500px 1fr;
     justify-content: center;
     align-items: center;
     padding-left: 20px;
@@ -271,6 +270,7 @@ a:hover {
     text-transform: uppercase;
     color: #1F0318;
     font-weight: 500;
+    font-size: 20px;
 }
 
 .languages-known .box .percent {
