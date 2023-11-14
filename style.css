@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; 
   }
 
 * {
@@ -8,7 +8,7 @@ html {
 
 body {
     min-height: 100vh;
-    margin: 0;
+    margin: 0; 
     padding: 0;
     display: flex;
     flex-direction: column;
@@ -270,7 +270,7 @@ a:hover {
     text-transform: uppercase;
     color: #1F0318;
     font-weight: 500;
-    font-size: 20px;
+    font-size: medium;
 }
 
 .languages-known .box .percent {
